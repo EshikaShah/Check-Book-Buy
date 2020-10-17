@@ -4,3 +4,15 @@
 	background-size:1500px;
 	height: 800px;
 }
+
+.jump{
+	align:center;
+	padding-top: 200px;
+	opacity: 0.8;
+	color: #2E3F61;
+	font-family: Roboto;
+	font-weight: 900;
+	font-size: 25px;
+	padding-left: 115px;
+}
+
