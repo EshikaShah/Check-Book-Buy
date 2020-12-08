@@ -14,6 +14,8 @@ To help the small shop owners with their business that they are financially bett
 - <code><img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg"></code> Github
 - <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> Node JS
 - <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code> Express JS
+- <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> MongoDB 
+
 
 ## <img height="35" src="https://i.pinimg.com/736x/e0/de/4f/e0de4f8157d0b0a9eff348231ae7de07.jpg"> Endgame
 Be it a pandemic or just a regular day. This webapp will be useful in getting what the customers want and could possibly increase the business of the shop owners by making them widespread in the virtual world which is often overlooked. It would save customer’s time and resources which otherwise they might have spent in a futile trip to their known general store. It would be beneficial to both the customer and the shopkeeper.
